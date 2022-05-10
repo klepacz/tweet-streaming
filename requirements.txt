@@ -1,0 +1,3 @@
+google-cloud-pubsub==2.12.0
+tweepy==4.8.0
+apache-beam[gcp]==2.38.0
